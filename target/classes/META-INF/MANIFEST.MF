@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ajaychaturvedi
+Implementation-Vendor-Id: com.foodapp
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/foodapp_apr2
+ 018/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
